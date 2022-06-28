@@ -16,11 +16,6 @@
 
 <img src="https://go.dev/images/gophers/ladder.svg" width="50" height="">
 
-**Run app:**
-
-> go run main
-
-
 **Live demo:** [www.nodir.net](https://www.nodir.net/portfolio/getwea)
 
 ### (!) Non-Production!
