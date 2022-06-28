@@ -1,6 +1,9 @@
 ## Getwea  -  simple weather application for getting your current forecast.
 ![Main page](https://www.nodir.net/files/images/Getwea.png)
 
+**Live demo:** [www.nodir.net](https://www.nodir.net/portfolio/getwea)
+
+
 **REST API:**
 |Method|Path|Response|
 |--|--|--|
@@ -16,6 +19,5 @@
 
 <img src="https://go.dev/images/gophers/ladder.svg" width="50" height="">
 
-**Live demo:** [www.nodir.net](https://www.nodir.net/portfolio/getwea)
 
 ### (!) Non-Production!
