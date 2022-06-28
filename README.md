@@ -17,7 +17,6 @@
 - Bootstrap 5
 - API by www.weatherapi.com
 
-<img src="https://go.dev/images/gophers/ladder.svg" width="50" height="">
-
-
 ### (!) Non-Production!
+
+<img src="https://go.dev/images/gophers/ladder.svg" width="50" height="">
