@@ -7,6 +7,9 @@
 |GET|/weather/search?cityName={City}|Location list|
 |GET|/weather/current?cityName={City}|Current forecast|
 
+
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="48" height="">
+
 - Golang / Gin
 - Java Script / Axios
 - Bootstrap 5
