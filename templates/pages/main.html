@@ -1,0 +1,51 @@
+{{define "main.html"}}
+    {{template "head.html" .}}
+    <div class="d-flex flex-column mt-5 mx-4">
+        <div class="input-group mb-3">
+            <input
+                    id="cityName"
+                    type="search"
+                    class="form-control form-control-lg"
+                    placeholder="{{.placeholder}}"
+                    aria-describedby="searchButton"
+            >
+            <button class="btn bg-primary bg-gradient" type="button" id="searchButton">
+                <i class="fa-solid fa-magnifying-glass text-white"></i>
+            </button>
+        </div>
+        <div class="alert alert-warning hidden" id="validateTextBlock" role="alert">
+            <i class="fa-solid fa-circle-info"></i>
+            <span id="validateText"></span>
+        </div>
+        <div class="hidden animate__animated animate__backInDown" id="selectLocation">
+            <hr/>
+            <label><i class="fa-solid fa-location-dot"></i>&nbsp;{{.label}}</label>
+            <select
+                    id="cityList"
+                    class="form-select form-select-lg"
+
+            >
+            </select>
+        </div>
+        <div id="weatherTablo" class="hidden mt-2 animate__animated animate__bounceInDown">
+            <div class="card p-4 weabg sun">
+                <div class="d-flex justify-content-between align-items-center flex-lg-row flex-column">
+                    <div class="text-white fs-4 fs-">
+                        <i class="fa-solid fa-location-crosshairs"></i>
+                        <span id="name"></span>
+                    </div>
+                    <div class="text-white fs-4">
+                        <img id="icon">
+                        <span id="condition"></span>
+                        <span id="c"></span>
+                    </div>
+                    <div class="text-white fs-4">
+                        <i class="fa-solid fa-calendar-days"></i>
+                        <span id="time"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{template "foot.html" .}}
+{{end}}

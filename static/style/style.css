@@ -1,0 +1,28 @@
+@import "/files/style/dist/css/bootstrap.min.css";
+@import "/files/libs/animate.css/animate.min.css";
+@import "/files/libs/fafa/css/all.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: url("/files/images/bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hidden {
+    display: none;
+}
+
+
+.weabg {
+    background: url("/files/images/bg_tablo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
