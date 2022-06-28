@@ -20,6 +20,6 @@
 > go run main
 
 
-**Live demo:** [www.nodir.net](www.nodir.net/portfolio/getwea)
+**Live demo:** [www.nodir.net](https://www.nodir.net/portfolio/getwea)
 
 ### (!) Non-Production!
