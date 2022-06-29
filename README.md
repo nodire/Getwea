@@ -18,5 +18,3 @@
 - API by www.weatherapi.com
 
 ### (!) Non-Production!
-
-<img src="https://go.dev/images/gophers/ladder.svg" width="50" height="">
