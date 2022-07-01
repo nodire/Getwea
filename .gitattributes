@@ -1,1 +1,1 @@
-main.go linguist-vendored
+*.* linguist-language=Go
