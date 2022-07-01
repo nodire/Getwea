@@ -1,7 +1,7 @@
 ## Getwea  -  simple weather application for getting your current forecast.
 ![Main page](https://www.nodir.net/files/images/Getwea.png)
 
-**Live demo:** [www.nodir.net](https://www.nodir.net/portfolio/getwea)
+**Live demo:** [👀www.nodir.net](https://portfolio.nodir.net/Getwea/?ref=Github)
 
 
 **REST API:**
@@ -16,5 +16,3 @@
 - Java Script / Axios
 - Bootstrap 5
 - API by www.weatherapi.com
-
-### (!) Non-Production!
