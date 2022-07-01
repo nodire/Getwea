@@ -3,6 +3,7 @@
 
 **Live demo:** [👀www.nodir.net](https://portfolio.nodir.net/Getwea/?ref=Github)
 
+<hr />
 
 **REST API:**
 |Method|Path|Response|
