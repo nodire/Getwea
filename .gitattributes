@@ -1,1 +1,1 @@
-*.scss *.js *.less *.css inguist-detectable=false
+main.go linguist-vendored
