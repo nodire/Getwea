@@ -1,3 +1,2 @@
-*.* linguist-language=Go
 *.scss linguist-detectable=false
 *.less linguist-detectable=false
