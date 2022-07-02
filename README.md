@@ -1,5 +1,6 @@
 ## Getwea  -  simple weather application for getting your current forecast
-![Main page](https://www.nodir.net/files/images/Getwea.png)
+
+![getwea_app](https://user-images.githubusercontent.com/108335077/177015530-e7626ab1-6b72-4563-a33e-b1103f5b1aa2.png)
 
 **👀 Live demo:** [www.nodir.net](https://portfolio.nodir.net/Getwea/?ref=Github)
 
