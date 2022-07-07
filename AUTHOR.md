@@ -1,1 +1,1 @@
-(c) 2017 NORBOYEV NODIR <<norboyev@nodir.net>>
+(c) 2022 NORBOYEV NODIR <<norboyev@nodir.net>>
